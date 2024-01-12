@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1012139254274",
+    "firebase_url": "https://hearthstone-4e58c-default-rtdb.firebaseio.com",
+    "project_id": "hearthstone-4e58c",
+    "storage_bucket": "hearthstone-4e58c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012139254274:android:7ea10ffb69564f1eb5fd1b",
+        "android_client_info": {
+          "package_name": "com.example.hardstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZg3j5qVggke8ydyc42yycMQc2rEzu6z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012139254274:android:31b8b9acae9a19fbb5fd1b",
+        "android_client_info": {
+          "package_name": "com.example.hearthstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZg3j5qVggke8ydyc42yycMQc2rEzu6z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012139254274:android:5b0ca2b82e177eceb5fd1b",
+        "android_client_info": {
+          "package_name": "hearth.stone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZg3j5qVggke8ydyc42yycMQc2rEzu6z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
